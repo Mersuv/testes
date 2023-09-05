@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "."
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "datahora",
+        "descricao",
+        "endereco",
+        "Exercicios",
+        "programacao",
+        "Usuario"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
