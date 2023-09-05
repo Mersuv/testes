@@ -1,3 +1,5 @@
+package ExerciciosLivroJava;
+
 //Figura 2.3: Welcome.java
 //Imprimindo uma linha de texto com múltiplas instruções.
 

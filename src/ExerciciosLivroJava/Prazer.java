@@ -1,3 +1,5 @@
+package ExerciciosLivroJava;
+
 // Programa de impressão de texto.
 
 public class Prazer

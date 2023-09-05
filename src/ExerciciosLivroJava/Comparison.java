@@ -1,3 +1,5 @@
+package ExerciciosLivroJava;
+
 //Figura 2.15: Comparison.java
 //Compara inteiros utilizando instruções if, operadores relacionais
 //e operadores de igualdade.

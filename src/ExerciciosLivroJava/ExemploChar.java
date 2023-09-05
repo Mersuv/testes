@@ -1,3 +1,5 @@
+package ExerciciosLivroJava;
+
 public class ExemploChar {
     public static void main(String[] args) {
         char letra = 'A';

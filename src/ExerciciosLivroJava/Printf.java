@@ -1,3 +1,5 @@
+package ExerciciosLivroJava;
+
 //Figura 2.6 Printf.java
 //Exibindo múltiplas linhas com o método
 

@@ -1,3 +1,5 @@
+package ExerciciosLivroJava;
+
 /**
  * Prazer2
  */
