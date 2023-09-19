@@ -8,7 +8,7 @@ public class TorreDeHanoi {
         }
 
         moverDisco(n - 1, hasteOrigem, hasteAuxiliar, hasteDestino);
-        System.out.println("Mova disco " + n + " da haste " + hasteOrigem + " para a haste" + hasteDestino);
+        System.out.println("Mova disco " + n + " da haste " + hasteOrigem + " para a haste " + hasteDestino);
         moverDisco(n - 1, hasteAuxiliar, hasteDestino, hasteOrigem);
     }
 
